@@ -4,9 +4,10 @@
 Kinder was created to address two problems plaguing mom's: an alternative solution to 50 reply-all email threads to manage their playdate & finding other moms they connect with beyond the commonality of having children. We designed Kinder with mobile in mind and had 88% test coverage. 
 
 Created by: [Amanda Lin](https://github.com/adnamalin), [Benji Shyman](https://github.com/bshyman), [Leland Meiners](https://github.com/LelandAM), [Vivien Kuo](https://github.com/viKuo)
-## Live Demo
+## Visit or Watch Demo
+[Demo Video](https://vimeo.com/178823070) | [Visit Kinder](http://kinderplaydate.herokuapp.com/)
 
-[Visit Kinder](kinderplaydate.herokuapp.com)
+**Explore Kinder with demo username & password: DemoUsername / 1234**
 
 ![screenshots kinder](http://i.imgur.com/Mx0oK2U.png)
 
